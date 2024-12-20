@@ -1,0 +1,4 @@
+Flask==2.1.0
+transformers==4.22.0
+torch==1.10.0  # Optional, depending on your app’s requirements
+gunicorn==20.1.0
